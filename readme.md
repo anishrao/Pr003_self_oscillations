@@ -7,14 +7,14 @@ This repository contains data for Choreographing Oscillatory Hydrodynamics with 
 All the necessary packages can be found in the requirements file. 
 ```
 pip install -r requirements.txt
-```git 
+```
 
 ## Project structure
 
 This repository contains the following subfolders and files in the root folder.
 
 ```
-.
+
 |--CITATION
 |--README.md
 |--requirements.txt              # Python requirements file
