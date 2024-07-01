@@ -1,7 +1,8 @@
 # Choreographing Oscillatory Hydrodynamics with DNA-Coated Gold Nanoparticles
 
-This repository contains data for Choreographing Oscillatory Hydrodynamics with DNA-Coated Gold Nanoparticles ([link](https://chemrxiv.org/engage/chemrxiv/article-details/65318d002431cc1dac17d537))
-The final version of the paper can be found ([here]([https://chemrxiv.org/engage/chemrxiv/article-details/65318d002431cc1dac17d537](https://pubs.acs.org/doi/10.1021/jacs.4c06868)))
+This repository contains data for Choreographing Oscillatory Hydrodynamics with DNA-Coated Gold Nanoparticles ([link](https://chemrxiv.org/engage/chemrxiv/article-details/65318d002431cc1dac17d537)).
+
+The final version of the paper can be found ([here](https://pubs.acs.org/doi/10.1021/jacs.4c06868))
 
 ### Prerequisites
 
